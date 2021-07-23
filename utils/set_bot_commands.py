@@ -6,5 +6,6 @@ async def set_default_commands(dp):
         [
             types.BotCommand("info", "Джонни расскажжет о себе"),
             types.BotCommand("fuck", "Послать нахуй"),
+            types.BotCommand("fu", "Случайное Фу")
         ]
     )
